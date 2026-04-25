@@ -24,7 +24,7 @@ This archive contains older versions of Catlean Client recovered from local stor
 | 0.1.0   | 1.21.9           | [Download](https://github.com/John220099/catlean-archive/raw/refs/heads/main/catlean_1.21.9-v0.1.0.jar) |
 | 0.1.2   | 1.21.11          | [Download](https://github.com/John220099/catlean-archive/raw/refs/heads/main/catlean_1.21.11-v0.1.2.jar) |
 
-> ⚠️ **Note**: These are archived versions. For the latest release, please visit the official Catlean repository.
+> ⚠️ **Note**: These are archived versions. For the latest release, please visit the official Catlean [website](https://catlean.su/).
 
 ---
 
@@ -71,7 +71,6 @@ You'll need two core dependencies for Catlean to work:
 1. Open the Minecraft Launcher
 2. Select the **Fabric** profile from the dropdown menu
 3. Click **Play**
-4. Verify Catlean is loaded by checking the mods menu in-game
 
 ---
 
